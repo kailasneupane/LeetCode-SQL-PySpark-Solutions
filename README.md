@@ -40,3 +40,7 @@ PySpark SQL. **(ongoing)**
 37. [Employees Whose Manager Left the Company](studyplan-top-sql-50/Subqueries/37_1978_Employees_Whose_Manager_Left_the_Company.ipynb)
 38. [Exchange Seats](studyplan-top-sql-50/Subqueries/38_626_Exchange_Seats.ipynb)
 39. [Movie Rating](studyplan-top-sql-50/Subqueries/39_1341_Movie_Rating.ipynb)
+40. [Restaurant Growth](studyplan-top-sql-50/Subqueries/40_1321_Restaurant_Growth.ipynb)
+41. [Friend Requests II: Who Has the Most Friends](studyplan-top-sql-50/Subqueries/41_602_Friend_Requests_II_Who_Has_the_Most_Friends.ipynb)
+42. [Investments in 2016](studyplan-top-sql-50/Subqueries/42_585_Investments_In_2016.ipynb)
+43. [Department Top Three Salaries](studyplan-top-sql-50/Subqueries/43_185_Department_Top_Three_Salaries.ipynb)
