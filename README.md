@@ -16,7 +16,6 @@ PySpark SQL. **(ongoing)**
 ### Basic Joins
 
 6. [Replace Employee ID With The Unique Identifier](studyplan-top-sql-50/Basic_Joins/06_1378_Replace_Employee_ID_With_The_Unique_Identifier.ipynb)
-
 7. [Product Sales Analysis I](studyplan-top-sql-50/Basic_Joins/07_1068_Product_Sales_Analysis_I.ipynb)
 8. [Customer Who Visited but Did Not Make Any Transactions](studyplan-top-sql-50/Basic_Joins/08_1581_Customer_Who_Visited_but_Did_Not_Make_Any_Transactions.ipynb)
 9. [Rising Temperature](studyplan-top-sql-50/Basic_Joins/09_197_Rising_Temperature.ipynb)
@@ -36,3 +35,8 @@ PySpark SQL. **(ongoing)**
 35. [Last Person to Fit in the Bus](studyplan-top-sql-50/Advanced_Select_and_Joins/35_1204_Last_Person_to_Fit_in_the_Bus.ipynb)
 36. [Count Salary Categories](studyplan-top-sql-50/Advanced_Select_and_Joins/36_1907_Count_Salary_Categories.ipynb)
 
+### Subqueries
+
+37. [Employees Whose Manager Left the Company](studyplan-top-sql-50/Subqueries/37_1978_Employees_Whose_Manager_Left_the_Company.ipynb)
+38. [Exchange Seats](studyplan-top-sql-50/Subqueries/38_626_Exchange_Seats.ipynb)
+39. [Movie Rating](studyplan-top-sql-50/Subqueries/39_1341_Movie_Rating.ipynb)
