@@ -25,6 +25,11 @@ PySpark SQL. **(ongoing)**
 13. [Managers with at Least 5 Direct Reports](studyplan-top-sql-50/Basic_Joins/13_570_Managers_with_at_Least_5_Direct_Reports.ipynb)
 14. [Confirmation Rate](studyplan-top-sql-50/Basic_Joins/14_1934_Confirmation_Rate.ipynb)
 
+### Basic Aggregate Functions
+15. [Not Boring Movies](studyplan-top-sql-50/Basic_Aggregate_Functions/15_620_Not_Boring_Movies.ipynb)
+16. [Average Selling Price](studyplan-top-sql-50/Basic_Aggregate_Functions/16_1251_Average_Selling_Price.ipynb)
+17. [Project Employees I](studyplan-top-sql-50/Basic_Aggregate_Functions/17_1075_Project_Employees_I.ipynb)
+
 ### Advanced Select and Joins
 
 30. [The Number of Employees Which Report to Each Employee](studyplan-top-sql-50/Advanced_Select_and_Joins/30_1731_The_Number_of_Employees_Which_Report_to_Each_Employee.ipynb)
