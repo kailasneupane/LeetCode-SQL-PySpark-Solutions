@@ -29,6 +29,11 @@ PySpark SQL. **(ongoing)**
 15. [Not Boring Movies](studyplan-top-sql-50/Basic_Aggregate_Functions/15_620_Not_Boring_Movies.ipynb)
 16. [Average Selling Price](studyplan-top-sql-50/Basic_Aggregate_Functions/16_1251_Average_Selling_Price.ipynb)
 17. [Project Employees I](studyplan-top-sql-50/Basic_Aggregate_Functions/17_1075_Project_Employees_I.ipynb)
+18. [Percentage of Users Attended a Contest](studyplan-top-sql-50/Basic_Aggregate_Functions/18_1633_Percentage_of_Users_Attended_a_Contest.ipynb)
+19. [Queries Quality and Percentage](studyplan-top-sql-50/Basic_Aggregate_Functions/19_1211_Queries_Quality_and_Percentage.ipynb)
+20. [Monthly Transactions I](studyplan-top-sql-50/Basic_Aggregate_Functions/20_1193_Monthly_Transactions_I.ipynb)
+21. [Immediate Food Delivery II](studyplan-top-sql-50/Basic_Aggregate_Functions/21_1174_Immediate_Food_Delivery_II.ipynb)
+22. [Game Play Analysis IV](studyplan-top-sql-50/Basic_Aggregate_Functions/22_550_Game_Play_Analysis_IV.ipynb)
 
 ### Advanced Select and Joins
 
