@@ -65,3 +65,13 @@ PySpark SQL. **(ongoing)**
 41. [Friend Requests II: Who Has the Most Friends](studyplan-top-sql-50/Subqueries/41_602_Friend_Requests_II_Who_Has_the_Most_Friends.ipynb)
 42. [Investments in 2016](studyplan-top-sql-50/Subqueries/42_585_Investments_In_2016.ipynb)
 43. [Department Top Three Salaries](studyplan-top-sql-50/Subqueries/43_185_Department_Top_Three_Salaries.ipynb)
+
+### Advanced String Functions / Regex / Clause
+
+44. [Fix Names in a Table](studyplan-top-sql-50/Advanced_String_Functions_Regex_Clause/44_1667_Fix_Names_in_a_Table.ipynb)
+45. [Patients With a Condition](studyplan-top-sql-50/Advanced_String_Functions_Regex_Clause/45_1527_Patients_With_a_Condition.ipynb)
+46. [Delete Duplicate Emails](studyplan-top-sql-50/Advanced_String_Functions_Regex_Clause/46_196_Delete_Duplicate_Emails.ipynb)
+47. [Second Highest Salary](studyplan-top-sql-50/Advanced_String_Functions_Regex_Clause/47_176_Second_Highest_Salary.ipynb)
+48. [Group Sold Products By The Date](studyplan-top-sql-50/Advanced_String_Functions_Regex_Clause/48_1484_Group_Sold_Products_By_The_Date.ipynb)
+49. [List the Products Ordered in a Period](studyplan-top-sql-50/Advanced_String_Functions_Regex_Clause/49_1327_List_the_Products_Ordered_in_a_Period.ipynb)
+50. [Find Users With Valid E-Mails](studyplan-top-sql-50/Advanced_String_Functions_Regex_Clause/50_1517_Find_Users_With_Valid_E-Mails.ipynb)
