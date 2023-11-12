@@ -26,6 +26,7 @@ PySpark SQL. **(ongoing)**
 14. [Confirmation Rate](studyplan-top-sql-50/Basic_Joins/14_1934_Confirmation_Rate.ipynb)
 
 ### Basic Aggregate Functions
+
 15. [Not Boring Movies](studyplan-top-sql-50/Basic_Aggregate_Functions/15_620_Not_Boring_Movies.ipynb)
 16. [Average Selling Price](studyplan-top-sql-50/Basic_Aggregate_Functions/16_1251_Average_Selling_Price.ipynb)
 17. [Project Employees I](studyplan-top-sql-50/Basic_Aggregate_Functions/17_1075_Project_Employees_I.ipynb)
@@ -34,6 +35,16 @@ PySpark SQL. **(ongoing)**
 20. [Monthly Transactions I](studyplan-top-sql-50/Basic_Aggregate_Functions/20_1193_Monthly_Transactions_I.ipynb)
 21. [Immediate Food Delivery II](studyplan-top-sql-50/Basic_Aggregate_Functions/21_1174_Immediate_Food_Delivery_II.ipynb)
 22. [Game Play Analysis IV](studyplan-top-sql-50/Basic_Aggregate_Functions/22_550_Game_Play_Analysis_IV.ipynb)
+
+### Sorting and Grouping
+
+23. [Number of Unique Subjects Taught by Each Teacher](studyplan-top-sql-50/Sorting_and_Grouping/23_2356_Number_of_Unique_Subjects_Taught_by_Each_Teacher.ipynb)
+24. [User Activity for the Past 30 Days I](studyplan-top-sql-50/Sorting_and_Grouping/24_1141_User_Activity_for_the_Past_30_Days_I.ipynb)
+25. [Product Sales Analysis III](studyplan-top-sql-50/Sorting_and_Grouping/25_1070_Product_Sales_Analysis_III.ipynb)
+26. [Classes More Than 5 Students](studyplan-top-sql-50/Sorting_and_Grouping/26_596_Classes_More_Than_5_Students.ipynb)
+27. [Find Followers Count](studyplan-top-sql-50/Sorting_and_Grouping/27_1729_Find_Followers_Count.ipynb)
+28. [Biggest Single Number](studyplan-top-sql-50/Sorting_and_Grouping/28_619_Biggest_Single_Number.ipynb)
+29. [Customers Who Bought All Products](studyplan-top-sql-50/Sorting_and_Grouping/29_1045_Customers_Who_Bought_All_Products.ipynb)
 
 ### Advanced Select and Joins
 
