@@ -1,6 +1,6 @@
 # LeetCode-SQL-PySpark-Solutions
 
-This repository contains my solutions to the top 50 LeetCode SQL challenges implemented using Apache Spark DataFrame (PySpark) and Spark SQL.
+This repository contains my solutions to the [top 50 LeetCode SQL challenges](https://leetcode.com/studyplan/top-sql-50/) implemented using Apache Spark DataFrame (PySpark) and Spark SQL.
 
 ## Table of Contents
 
